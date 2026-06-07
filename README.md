@@ -124,7 +124,7 @@ BUILD SUCCESS
 
 ---
 
-## Autora#
+## Autora
 
 Bruna Amaral
 
